@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Project Time Tracker",
+  "version": "1.0.0",
+  "description": "Create projects, start/stop a work timer, log notes about what you did, and review your work history.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Project Time Tracker"
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
